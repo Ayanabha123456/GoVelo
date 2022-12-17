@@ -1,0 +1,125 @@
+/* for overall*/
+
+.Walletpagecss {
+    width: 100%;
+}
+
+.Walletheadercss {
+    margin-left: 20px;
+    font-family: Audiowide, sans-serif;
+}
+
+
+.form {
+    margin: auto;
+    text-align: center;
+    box-shadow: 1px 1px 3px 3px rgb(76, 154, 42);
+    width: 500px;
+}
+
+.LoadWalletbuttonstyle {
+    margin-left: 5px;
+    width: 30%;
+    height: 30px;
+    background-color: rgb(76, 154, 42);
+    border: none;
+    color: white;
+    margin-top: 20px;
+    outline: none;
+    border: transparent;
+    border: 0;
+}
+
+.input {
+    border: 0;
+    border-top-style: hidden;
+    border-right-style: hidden;
+    border-left-style: hidden;
+
+}
+
+.no-outline:focus {
+    outline: none;
+}
+
+.header {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 40px 30px;
+}
+
+.header h1 {
+    font-size: 16px;
+    flex: 2;
+    text-align: center;
+}
+
+.menu-icon-wrapper {
+    background-color: #22223A;
+    border-radius: 500px;
+    height: 45px;
+    width: 45px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.dots-wrapper div {
+    border-radius: 500px;
+    height: 5px;
+    width: 5px;
+    margin: 4px 2px;
+}
+
+.light-dot {
+    background-color: #A1A0BC;
+}
+
+.dark-dot {
+    background-color: #55546D;
+}
+
+
+/* css for balance things */
+.balance-wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 10px;
+}
+
+.balance-wrapper h3 {
+    color: #55546D;
+    font-size: 11px;
+    letter-spacing: 1px;
+    margin-bottom: 8px;
+}
+
+.balance-wrapper h1 {
+    font-size: 24px;
+    letter-spacing: 1px;
+}
+
+.balance-wrapper h1 span {
+    font-size: 17px;
+}
+
+/* for horizontal line*/
+.hr {
+    margin: 35px 60px;
+    height: 1px;
+    background: #55546D;
+    opacity: 0.5;
+    background: -webkit-gradient(linear, 0 0, 100% 0, from(#1D1B34), to(#1D1B34), color-stop(50%, #55546D));
+}
+
+/* for activity things */
+.activity-wrapper {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 40px;
+}

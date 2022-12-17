@@ -1,0 +1,38 @@
+.bodystyle {
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+.main-image {
+    width: 25%;
+    border-radius: 8px;
+    height: auto;
+    height: 25rem;
+    z-index: 0;
+    overflow: hidden;
+    margin-left: 30px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+.bookbuttonstyle {
+    margin-left: 45px;
+    width: 10%;
+    height: 30px;
+    background-color: rgb(76, 154, 42);
+    border: none;
+    color: white;
+}
+
+.returnbookbuttonstyle {
+    margin-left: 30px;
+    width: 10%;
+    height: 30px;
+    background-color: rgb(76, 154, 42);
+    border: none;
+    color: white;
+}
+
+.parastyle{
+    margin-bottom: 40px;
+}

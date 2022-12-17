@@ -1,0 +1,93 @@
+.footer {
+    height: 80px;
+    margin-bottom: 10px;
+    margin-top: 5px;
+    background-color: rgb(76, 154, 42);
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    color: black;
+    position: absolute;
+    bottom: 0;
+}
+
+.teamname {
+    color: forestgreen;
+}
+
+.text6{
+text-decoration: none;
+}
+.site-footer {
+    background-color: rgb(76, 154, 42);
+    padding-left: 10px;
+    font-size: 15px;
+    line-height: 24px;
+    color: black;
+    position: relative;
+    bottom: 0;
+}
+
+    .site-footer hr {
+        border-top-color: #bbb;
+        opacity: 0.5
+    }
+
+    .site-footer h6 {
+        color: black;
+        font-size: 16px;
+        text-transform: uppercase;
+        margin-top: 5px;
+        letter-spacing: 2px ;
+        
+    }
+
+    .site-footer a {
+        color: black;
+    }
+
+        .site-footer a:hover {
+            color: #3366cc;
+            text-decoration: none;
+        }
+
+.footer-links {
+    padding-left: 0;
+    list-style: none;
+    text-decoration: none;
+}
+
+    .footer-links li {
+        display: block
+    }
+
+    .footer-links a {
+        color: black;
+    }
+
+        .footer-links a:active, .footer-links a:focus, .footer-links a:hover {
+            color: #3366cc;
+            text-decoration: none;
+        }
+
+    .footer-links.inline li {
+        display: inline-block
+    }
+
+.site-footer .social-icons {
+    text-align: right
+}
+
+    .site-footer .social-icons a {
+        width: 40px;
+        height: 40px;
+        line-height: 40px;
+        margin-left: 6px;
+        margin-right: 0;
+        border-radius: 100%;
+        background-color: #33353d
+    }
+
+.copyright-text {
+    margin: 0
+}
