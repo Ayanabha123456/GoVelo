@@ -88,6 +88,10 @@ npm start
 
 If you run into cors error when trying to comunicate with backend install Allow CORS: Access-Control-Allow-Origin extension on chrome
 
+# Video Demo
+
+[![Watch the video](https://img.youtube.com/vi/iTAUhQRudDc/maxresdefault.jpg)](https://www.youtube.com/watch?v=iTAUhQRudDc)
+
 # Contributors
 Created by :
 
